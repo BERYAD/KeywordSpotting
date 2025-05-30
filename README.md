@@ -24,8 +24,8 @@ Keyword Spotting with CNN for Game Control This project implements a lightweight
 
 | File/Folder               | Description |
 |---------------------------|-------------|
-| `CNNoisySilence.ipynb`    | Training notebook with preprocessing and CNN |
-| `modelLoadRas.ipynb`      | Model loading and voice interaction with the game |
+| `source/CNNoisySilence.ipynb`    | Training notebook with preprocessing and CNN |
+| `source/modelLoadRas.ipynb`      | Model loading and voice interaction with the game |
 | `InternshipReportBENAISSAv1.pdf` | Internship report (M1) detailing the project |
 | `videos/`                 | Demo videos |
 
@@ -35,12 +35,11 @@ Keyword Spotting with CNN for Game Control This project implements a lightweight
 
 - Python 3.7+
 - Recommended libraries:
+  - `torch`
   - `librosa`
   - `numpy`
   - `matplotlib`
-  - `pyaudio`
   - `pygame`
-  - `pytorch`
   - `PvRecorder`
 
 
