@@ -27,7 +27,7 @@ Keyword Spotting with CNN for Game Control This project implements a lightweight
 | `source/CNNoisySilence.ipynb`    | Training notebook with preprocessing and CNN |
 | `source/modelLoadRas.ipynb`      | Model loading and voice interaction with the game |
 | `InternshipReportBENAISSAv1.pdf` | Internship report (M1) detailing the project |
-| `videos/`                 | Demo videos |
+| `videos/`                 | Demo videos : KWS on Raspberry Pi : https://youtu.be/E9Up6s6eMeE , Snake on Raspberry Pi : https://youtu.be/i-FqUyaQLY8 , Snake on PC : https://youtu.be/3D71_armeyg |
 
 ## Getting Started
 
