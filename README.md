@@ -3,6 +3,8 @@ Keyword Spotting with CNN for Game Control This project implements a lightweight
 
 ## Project Overview
 
+  (The sources here only implement the final result, but if you are interested in the process of getting there you can take a look at the internship report that explains everything)
+
 - **Training Notebook:** `CNNoisySilence.ipynb`
   - MFCC preprocessing
   - Data augmentation (e.g., adding noise)
